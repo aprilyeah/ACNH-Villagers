@@ -5,3 +5,5 @@ This is a simple front end project in which I have created a React TypeScript ap
 To run the app, start using the `npm start` command.
 
 ![Animal Crossing New Horizons Villagers Web App UI](ACNH-UI.png)
+
+This was my [Microsoft Student Accelerator New Zealand 2022 Phase 2](http://github.com/NZMSA/2022-Phase-2) Front End Project. 
